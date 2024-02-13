@@ -3,6 +3,7 @@ Applied risk management strategies to identify high-risk and defensive stocks, c
 
 # Description:
 Explore NSE sectors through comprehensive stock analysis, identifying high-risk and defensive stocks. This project utilizes web scraping techniques to gather extensive NSE sector data from various financial websites. The goal is to apply advanced statistical analysis using tools like Excel and Python (Pandas, NumPy), along with visualization tools, to implement robust strategies for risk management. The results contribute to informed investment decisions.
+
 **Highlights:**
 - Led the "Exploring NSE Sectors Through Stocks Analysis" project, showcasing strong analytical and project management skills.
 - Utilized web scraping to collect diverse NSE sector data from financial websites.
